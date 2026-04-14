@@ -1,0 +1,11 @@
+{
+  "name": "kk-insights",
+  "version": "1.0.0",
+  "description": "硬核KK风格解读器 —— 把朋友圈的犀利，变成AI的判断",
+  "author": "硬核KK",
+  "type": "persona",
+  "tags": ["解读", "风格", "工具评测", "资讯"],
+  "entry": "SKILL.md",
+  "icon": "🎯",
+  "license": "MIT"
+}
